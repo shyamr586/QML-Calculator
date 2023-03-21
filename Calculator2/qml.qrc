@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CalculatorScreen.qml</file>
+        <file>NumberPad.qml</file>
+    </qresource>
+</RCC>
